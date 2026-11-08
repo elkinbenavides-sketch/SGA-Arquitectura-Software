@@ -1,0 +1,6 @@
+{
+  "name": "SGA - Sistema de Gestión Académica",
+  "description": "Plataforma web empresarial para gestión académica universitaria: usuarios, programas, asignaturas, grupos, matrículas, calificaciones, reportes y auditoría.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
